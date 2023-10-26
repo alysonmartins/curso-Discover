@@ -21,7 +21,7 @@
   --text-color: black;
   --stroke-color: rgba(0, 0, 0, 0.5);
   --surface-color: rgba(0, 0, 0, 0.05);
-  --highlight-color: rgba(0, 0, 0, 0.1);
+  --highlight-color: rgba(0, 0, 0, 0.1);+
   --switch-bg-url: url(./assets/sun.svg);
   --surface-color-hover: rgba(0, 0, 0, 0.1);
   --bg-url: url("./assets/bg-desktop-light.jpg");
